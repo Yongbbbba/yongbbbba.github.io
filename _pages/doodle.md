@@ -1,6 +1,6 @@
 ---
 title: "끄적이"
-permalink: /categories/끄적이/
+permalink: /카테고리/끄적이/
 layout: category
 author_profile: true
 taxonomy: 끄적이
