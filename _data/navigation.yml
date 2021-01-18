@@ -1,9 +1,20 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Home"
+  #  url: https://yongbbbba.github.io/
+  - title: "About"
+    url: /about/
+  - title: "카테고리"
+    url: /categories/
+  - title: "끄적이"
+    url: /doodle/
+  - title: "TIL"
+    url: /TIL/
+  - title: "프로젝트"
+    url: /projects/
+
+  # - title: "Tags"
+  #   url: /tags/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
