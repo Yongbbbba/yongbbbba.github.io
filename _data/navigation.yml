@@ -5,11 +5,11 @@ main:
   - title: "About"
     url: /about/
   - title: "카테고리"
-    url: /카테고리/
+    url: /categories/
   - title: "끄적이"
-    url: /카테고리/끄적이/
+    url: /categories/doodle/
   - title: "TIL"
-    url: /카테고리/TIL/
+    url: /categories/TIL/
 
   # - title: "프로젝트"
   #   url: /카테고리/프로젝트/
