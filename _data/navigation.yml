@@ -7,7 +7,7 @@ main:
   - title: "카테고리"
     url: /categories/
   - title: "끄적이"
-    url: /categories/doodle/
+    url: /categories/끄적이/
   - title: "TIL"
     url: /categories/TIL/
 
