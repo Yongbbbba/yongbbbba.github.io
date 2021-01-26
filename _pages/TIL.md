@@ -1,6 +1,6 @@
 ---
 title: "TIL"
-permalink: /카테고리/TIL/
+permalink: /categories/TIL/
 layout: category
 author_profile: true
 taxonomy: TIL

@@ -10,8 +10,9 @@ main:
     url: /카테고리/끄적이/
   - title: "TIL"
     url: /카테고리/TIL/
-  - title: "프로젝트"
-    url: /카테고리/프로젝트/
+
+  # - title: "프로젝트"
+  #   url: /카테고리/프로젝트/
 
   # - title: "Tags"
   #   url: /tags/
