@@ -107,7 +107,7 @@ int* p = &a; // 64비트 운영체제의 경우 p는 8바이트 차지
 int & another_a = a; // another_a는 메모리를 차지하지 않음. 새로 변수를 생성한 것이 아님.
 ```
 
-하지만 반드시 그런 것은 아니다. 이는 추후 R-value, L-value에 대한 포스팅을 할 때 다시 한 번 언급할 것이다.
+하지만 반드시 그런 것은 아니다. 이는 추후 [R-value, L-value에 대한 포스팅](https://yongbbbba.github.io/til/LvalueRvalue/)을 할 때 다시 한 번 언급할 것이다.
 
 
 
