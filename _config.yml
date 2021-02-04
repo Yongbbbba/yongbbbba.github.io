@@ -19,7 +19,7 @@ locale: "en-US"
 title: "어느 프로그래머의 일상"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Root(√), 덕업일치 개발자"
+name: "Root(√)"
 description: "Software Engineer"
 url: "https://yongbbbba.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Root(√), 덕업일치 개발자"
+  name: "Root(√), 이용훈"
   avatar: "/assets/images/main.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Software Engineer : C++. Python"
   location: "South Korea"
