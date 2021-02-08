@@ -7,7 +7,7 @@ categories:
 tags:
   - C++
 
-last_modified_at: 2021-02-06T17:00:00
+last_modified_at: 2021-02-07T11:10:00
 toc: true
 toc_sticky: true
 ---
@@ -100,6 +100,10 @@ toc_sticky: true
   - 확보한 메모리 용량을 다 사용하고 있는 상태에서 'a' 같은 글자를 한 글자씩 삽입하는 작업을 수행하게 될 때, 메모리 용량을 확보하기 위해 메모리 해제와 재할당을 반복하게 되면 작업의 낭비가 있을 수 있다. 
   - 그래서 memory_capacity를 두 배만큼 미리 늘려놓는 것도 이러한 작업을 줄이는 방법 중 하나이다. 두 배는 엄밀한 숫자는 아니다. 너무 크면 그만큼 메모리 공간 낭비가 생길 수 있으니 적절한 수치를 프로그래머가 할당해야한다.
 
+- 문자열 제거 함수(erase)
+  - 뒤에 문자를 땡겨오는 아이디어는 교재와 똑같이 생각했는데 구현을 못 했다. 구현력, 특히 C++ 라는 도구를 아직 잘 사용하지 못하고 있다. 아마 파이썬이었다면 쉽게 구현을 했겠지만.. 더 많이 연습을 해야한다.
+  - string_length를 도입한 것의 장점은 string_length 이후의 문자들을 굳이 초기화할 필요가 없다는 것이다. string_length 때문에 쓰레기 문자가 되어버린 그 문자들에 접근할 수 없다.
+
 
 
 ### 전체 코드
@@ -139,6 +143,7 @@ class MyString{
     MyString& insert(int loc, char c);
     MyString& insert(int loc, const char* str);
     // 특정 위치의 특정 개수의 문자를 지우는 함수(erase)
+    MyString& erase(int loc, int num);
     // 특정 위치를 시작으로 특정 문자열을 검색하는 함수(find)
     // 두 문자열을 사전식 비교하는 함수(compare)
 };
@@ -299,19 +304,33 @@ MyString& MyString::insert(int loc, const char* str) {
     return insert(loc, temp);
 }
 
-int main() {
-    MyString str1("very long string");
-    MyString str2("<some string iserted between>");
-    str1.reserve(30);
-
-    std::cout << "Capacity : " << str1.capacity() << std:: endl;
-    std:: cout << "String length : " << str1.length() << std::endl;
-
-    str1.println();
-    str1.insert(5,str2);
-    str1.println();
-    return 0;
+MyString& MyString::erase(int loc, int num) {
+    // 지우려는 문자의 갯수가 out of range일 경우
+    if ((string_length-loc) < num) return *this;
+    if (loc < 0 || num < 0 || loc > string_length) return *this; 
+    
+    for (int i = loc+num; i < string_length; i++) {
+        string_content[i-num] = string_content[i];
+    }
+    string_length -= num;
+    return *this;
 }
+
+int main() {
+    MyString str1("abcdef");
+    std::cout << "string content : " ; 
+    str1.println();
+    std::cout << "capacity : "  << str1.capacity() << std::endl;
+    std::cout << "length : " << str1.length() << std::endl;
+    str1.erase(2,6);
+    std::cout << "string content : "; 
+    str1.println();
+    std::cout << "capacity : "  << str1.capacity() << std::endl;
+    std::cout << "length : " << str1.length() << std::endl;
+        return 0;
+
+}
+
 
 ```
 
