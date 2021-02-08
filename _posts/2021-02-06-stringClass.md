@@ -3,7 +3,7 @@ title: "[씹어먹는 C++] String 클래스 구현"
 excerpt: ""
 
 categories:
-  - TIL
+  - projects
 tags:
   - C++
 

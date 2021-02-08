@@ -6,4 +6,5 @@ author_profile: true
 taxonomy: projects
 ---
 
-진행한 프로젝트
+진행한 프로젝트, 토이 프로젝트 등
+
