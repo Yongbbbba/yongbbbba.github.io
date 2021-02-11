@@ -10,6 +10,9 @@ main:
     url: /categories/끄적이/
   - title: "TIL"
     url: /categories/TIL/
+  - title: "프로젝트"
+    url: /categories/projects/
+   
 
   # - title: "프로젝트"
   #   url: /카테고리/프로젝트/
