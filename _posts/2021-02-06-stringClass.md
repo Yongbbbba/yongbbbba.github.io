@@ -1,5 +1,5 @@
 ---
-title: "[씹어먹는 C++] String 클래스 구현"
+title: "[씹어먹는 C++] String 클래스 구현(진행중)"
 excerpt: ""
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - C++
 
-last_modified_at: 2021-02-07T11:10:00
+last_modified_at: 2021-02-08T21:10:00
 toc: true
 toc_sticky: true
 ---
