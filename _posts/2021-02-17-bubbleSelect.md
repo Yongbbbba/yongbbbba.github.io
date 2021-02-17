@@ -5,8 +5,8 @@ excerpt: ""
 categories:
   - algorithm
 tags:
-  - c++
-  - algorithm
+  - C++
+  - 알고리즘
  
 last_modified_at: 2021-02-17T08:00:00
 toc: true

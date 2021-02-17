@@ -6,7 +6,7 @@ categories:
   - TIL
 tags:
   - C++
-  - algorithm
+  - 알고리즘
   - STL
   - 자료구조
  
