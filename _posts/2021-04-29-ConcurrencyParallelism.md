@@ -16,7 +16,7 @@ toc_sticky: true
 
 # 동시성(Concurrency)과 병렬성(Parallelism)
 
-![Concurrency and parallelism are two different things - Blog | luminousmen](/assets/post_images/2021-04-29-ConcurrencyParallelism.assets/concurrency-and-parallelism-are-different.jpg)
+![Concurrency and parallelism](/assets/post_images/2021-04-29-ConcurrencyParallelism.assets/concurrency-and-parallelism-are-different.jpg)
 
 동시성과 병렬성은 동시에 여러가지를 실행하는 작업 수행하는 것을 일컫기 때문에 언뜻 보면 같은 개념인 것처럼 보인다. 하지만 까보면 그 둘은 다른 특성이다.
 
