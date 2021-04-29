@@ -1,7 +1,24 @@
+---
+title: "[CS][게임네트워킹의 이해] 4. Delay와 Rollback"
+excerpt: ""
+
+categories:
+  - TIL
+tags:
+  - CS
+  - Network
+ 
+last_modified_at: 2021-04-30T02:00:00
+toc: true
+toc_sticky: true
+---
+
+
+
 # Delay와 Rollback
 
 - 앞선 강의에서 봤듯이, Deterministic은 sync를 맞춰주는 것이 핵심이다. 이런 상태가 깨지는 것을 desync라고 한다.
-- desync를 해결하기 위한 방버으로 Delay와 Rollback이 있다
+- desync를 해결하기 위한 방법으로 Delay와 Rollback이 있다
 
 
 
