@@ -124,7 +124,7 @@ toc_sticky: true
 
 #### 3. 영화 세부 정보
 
-![image-20210527143558103]/assets/post_images/2021-05-28-movieTalk.assets/image-20210527143558103.png)
+![image-20210527143558103](/assets/post_images/2021-05-28-movieTalk.assets/image-20210527143558103.png)
 
 #### 4. 영화 리뷰 및 추천 정보
 
