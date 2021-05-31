@@ -33,7 +33,7 @@ toc_sticky: true
 
 
 
-### 프로젝트 저장소([Github](https://github.com/Final-movie-pjt/django))
+### 프로젝트 저장소([Github](https://github.com/Yongbbbba/movieTalk))
 
 
 
