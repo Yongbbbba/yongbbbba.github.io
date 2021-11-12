@@ -21,16 +21,20 @@ layout: single
 ## About Me
 
 - 독서를 좋아합니다. ([어떤 책을 읽었는지 궁금하신가요?)](https://www.notion.so/ca602a1a35bc4ddb9ea316daf2cb5718?v=883f218af9d74b8692b5b52a9ee1c10c)
-- 듣는 것 보다, 보고 읽는 것을 선호합니다.
+- 듣는 것 보다는, 보고 읽는 것을 선호합니다.
 - 모르는 것을 알기 위해 새로이 공부하는 것을 좋아합니다.
 - 안 가본 길, 동네 걷는 것을 좋아합니다.
 - 유행 타는 것을 좋아하지 않습니다.
-- 수학을 동경합니다. (잘한다는 것은 아닙니다)
+- 수학을 동경합니다. (!= 잘한다)
 - C++, Python, Algorithm, Parallel Programming, Multithreaded Programming, Computer Graphics, Real-time Rendering에 관심이 있습니다.
 - [더 알아보기](https://www.notion.so/Root-a6aa338190c54d91a7bbe6724c1f46e1)
 
 ## Experience
 
-- SSAFY 5기 - 2021-01 ~ 현재
-- (주)스페이스워크 - 2020-03 ~ 2020-06
+- IBK 시스템
+  - 2021-09 - 현재
+- SSAFY 5기
+  - 2021-01 ~ 2021-07
+- (주)스페이스워크
+  - 2020-03 ~ 2020-06
   - 데이터팀 - 인턴
