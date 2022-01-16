@@ -26,7 +26,8 @@ layout: single
 - 안 가본 길, 동네 걷는 것을 좋아합니다.
 - 유행 타는 것을 좋아하지 않습니다.
 - 수학을 동경합니다. (!= 잘한다)
-- C++, Python, Algorithm, Parallel Programming, Multithreaded Programming, Computer Graphics, Real-time Rendering에 관심이 있습니다.
+- C++, Python, Algorithm, 병렬 프로그래밍, 최적화, 시스템 프로그래밍, CUDA에 관심이 있습니다.
+- application 단 보다 low level에 흥미를 느낍니다.
 - [더 알아보기](https://www.notion.so/Root-a6aa338190c54d91a7bbe6724c1f46e1)
 
 ## Experience
