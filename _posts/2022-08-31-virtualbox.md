@@ -23,9 +23,7 @@ virtualbox를 이용해서 토이 플젝 하나를 시도하고 있었는데 두
 
 1. 참고하고 있던 자료에서 virtualbox 5.x 버전을 설치하라고 하였으나 설치를 시도하면 아래 이미지와 같이 나왔던 것 같다. `이 앱은 이 장치에서 실행할 수 없습니다.` 
 
-![윈도우11 : 코어격리 메모리 무결성 의 "이 설정은 관리자가 관리합니다" 해제 방법 :: 지누의 글](/_posts/2022-08-31-virtualbox.assets/img.png)
-
-
+![image-20220831201522089](/assets/post_images/2022-08-31-virtualbox/image-20220831201522089.png)
 
 2. virtualbox에서 머신을 추가해서 centos를 설치 후 실행하려고 하였는데 실행이 되지 않았다.  이건 두 가지 문제가 있었다. 
    1. `Raw-mode is unavailable courtesy of Hyper-V` 와 함께 실행이 되지않음
@@ -41,7 +39,7 @@ virtualbox를 이용해서 토이 플젝 하나를 시도하고 있었는데 두
 
 1. 메모리 무결성을 꺼주니까 해결됨
 
-​	![img](/_posts/2022-08-31-virtualbox.assets/img-16619375704164.png)
+![image-20220831201549957](/assets/post_images/2022-08-31-virtualbox/image-20220831201549957.png)
 
 위와 같이 코어 격리의 메모리 무결성을 꺼주고 재부팅을 하고 나서는 구버전도 정상적으로 설치가 되었다.
 
