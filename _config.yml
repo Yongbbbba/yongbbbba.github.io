@@ -42,9 +42,9 @@ comments:
     colorscheme: # "light" (default), "dark"
   utterances:
     repo: "yongbbbba/yongbbbba.github.io"
-    theme: "github-light" # (default), # "github-dark"
+    theme: "github-light" # "github-light"(default), # "github-dark"
     issue_term: "url" # "pathname" (default)
-    label: "comment" # "Comments"
+    label: "Comments" # "Comments"
   staticman:
     branch: # "master"
     endpoint: # "https://{your Staticman v3 API}/v3/entry/github/"
