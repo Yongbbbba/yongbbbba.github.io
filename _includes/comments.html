@@ -151,19 +151,8 @@
         {% endif %}
       </section>
     {% when "utterances" %}
-		{% assign utterances = site.comments.utterances %}
-		{% if utterances.repo %}
-			<script src="https://utteranc.es/client.js"
-				repo=        "Yongbbbba/yongbbbba.github.io"
-				issue-term=  {{ page.url }}
-				theme=       "github-light"
-				crossorigin= "anonymous"
-				async>
-			</script>
-	<!--
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="utterances-comments"></section>
-    -->	  
     {% when "custom" %}
       {% include /comments-providers/custom.html %}
   {% endcase %}
