@@ -151,8 +151,7 @@
         {% endif %}
       </section>
     {% when "utterances" %}
-		{% assign utterances = site.utterances %}
-		{% if utterances.repo %}
+		{% assign utterances = site.comments.utterances %}
 			<script src="https://utteranc.es/client.js"
 				repo=        {{ utterances.repo }}
 				issue-term=  {{ utterances.issue-term }}
