@@ -30,7 +30,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: "utterances"  # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider: "custom"  # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname: #"yongbbbba-github-io-3" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -214,6 +214,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-github-metadata
 
 # mimic GitHub Pages with --safe
 whitelist:
