@@ -152,6 +152,7 @@
       </section>
     {% when "utterances" %}
 		{% assign utterances = site.comments.utterances %}
+		{% if utterances.repo %}
 			<script src="https://utteranc.es/client.js"
 				repo=        {{ utterances.repo }}
 				issue-term=  {{ utterances.issue-term }}
