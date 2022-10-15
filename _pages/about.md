@@ -21,12 +21,12 @@ layout: single
 ## About Me
 
 - 독서를 좋아합니다. ([어떤 책을 읽었는지 궁금하신가요?)](https://www.notion.so/ca602a1a35bc4ddb9ea316daf2cb5718?v=883f218af9d74b8692b5b52a9ee1c10c)
-- 듣는 것 보다는, 보고 읽는 것을 선호합니다.
-- 모르는 것을 알기 위해 새로이 공부하는 것을 좋아합니다.
+- 호기심이 많고 공부가 취미입니다.
+- 모르는 것을 알기 위해 새로운 공부하는 것을 좋아합니다.
 - 안 가본 길, 동네 걷는 것을 좋아합니다.
 - 유행 타는 것을 좋아하지 않습니다.
 - 수학을 동경합니다. (!= 잘한다)
-- C++, Python, Algorithm, OS, 병렬분산 처리, 소켓 통신, IOCP, 실시간 데이터 처리, Kafka 등에 관심이 많습니다. 
+- C++, Java, Python, Algorithm, OS, 병렬분산 처리, 소켓 통신, IOCP, 대규모 데이터 처리, Kafka, Spring 등에 관심이 많습니다. 
 
 ## Experience
 
