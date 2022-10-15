@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "카테고리"
     url: /categories/
+  - title: "태그"
+    url: /tags/
   - title: "끄적이"
     url: /categories/끄적이/
   - title: "TIL"
