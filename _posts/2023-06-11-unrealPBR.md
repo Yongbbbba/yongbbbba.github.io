@@ -47,6 +47,4 @@ toc_sticky: true
 
 
 
-```html
 <iframe width="420" height="315" src="https://youtu.be/o44G3HujXEo" frameborder="0" allowfullscreen></iframe>
-```
