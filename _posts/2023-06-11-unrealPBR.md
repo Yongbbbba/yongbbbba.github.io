@@ -46,11 +46,7 @@ toc_sticky: true
 5. 전북대학교 김형기 교수님 컴퓨터 그래픽스 강의
 
 
-
-```
 ![](https://www.youtube.com/watch?v=o44G3HujXEo)
-```
-
 
 
 
