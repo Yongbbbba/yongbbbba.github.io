@@ -20,13 +20,13 @@ layout: single
 
 ## About Me
 
-- 독서를 좋아합니다. ([독서 목록)](https://www.notion.so/ca602a1a35bc4ddb9ea316daf2cb5718?v=883f218af9d74b8692b5b52a9ee1c10c)
+- 은행에서 JAVA로 비즈니스 로직을 개발하고, Oracle, AIX, Websphere 기반의 시스템 운영 업무를 하고 있으며 C++와 컴퓨터 그래픽스를 좋아합니다. 기술을 통한 혁신과 삶의 질 향상에 관심이 많습니다.
 - 호기심이 많고 공부가 취미입니다.
 - 어릴 적 [이 책](http://www.yes24.com/Product/Goods/2103920)을 읽고 큰 영감을 받아 학창시절부터 지금까지 자기주도적 학습을 해왔습니다. 현재도 자기주도적 학습과 업무수행 및 문제해결을 즐기고, 이것이 큰 장점이라 여깁니다. 
-- 모르는 것을 새로 알게 되는 것을 즐깁니다.
 - 안 가본 길, 동네 걷는 것을 좋아합니다.
 - 유행 타는 것을 좋아하지 않습니다.
-- C++, Java, Python, Algorithm, OS, 병렬분산 처리, 소켓 통신, IOCP, 대규모 데이터 처리, 객체지향 프로그래밍, Kafka, Spring 등에 관심이 많습니다. 
+- 독서를 좋아합니다. ([독서 목록)](https://www.notion.so/ca602a1a35bc4ddb9ea316daf2cb5718?v=883f218af9d74b8692b5b52a9ee1c10c)
+- C++, Java, Python, 컴퓨터 그래픽스(리얼타임 렌더링과 시뮬레이션), 벙렬 프로그래밍, 시스템 프로그래밍, DirectX에 관심이 많습니다.
 
 ## Experience
 
